@@ -4,7 +4,7 @@ I'm a sophomore pursuing my B.Tech at SRMIST. 🚀 I have a passion for coding a
 
 ## 💻 Skills
 
-- **Languages:** Python, Java, C++, HTML, CSS, JavaScript
+- **Languages:** Python, Java, C, C++, HTML, CSS, JavaScript
 
 ## 🚀 Projects
 
