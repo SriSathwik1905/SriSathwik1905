@@ -24,4 +24,4 @@ Designed a Chrome extension for easy storage and organization of favorite websit
 ## 🌐 Connect with Me
 
 - 📧 Email: padalasrisathwik@gmail.com
-- 💼 LinkedIn: [Sri Sathwik Padala](https://www.linkedin.com/in/Sri-Sathwik-Padala)
+- 💼 LinkedIn: [Sri Sathwik Padala](https://www.linkedin.com/in/sri-sathwik-padala-853a48308/)
