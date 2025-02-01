@@ -8,7 +8,7 @@
 🎓 **Computer Science Student** at **SRM University**  
 💻 **Software Developer | Machine Learning Enthusiast | Web Developer**  
 📌 Passionate about **AI, Cybersecurity, and Full-stack Development**  
-🎯 Currently working on **AI-powered medical applications & SEPM web-based projects**
+🎯 Currently working on **ML Based research papers & CookBook website**
 
 ---
 
