@@ -55,6 +55,6 @@
 ## 🤝 Connect with Me
 💬 **Let's collaborate on open-source, AI, and web development projects!**  
 📧 **Email**: padalasrisathwik@gmail.com  
-🔗 **Portfolio (Coming Soon!)**  
+🔗 **Portfolio**: https://sathwik.codes  
 
 ⭐ If you like my work, consider giving a star to my repositories!
